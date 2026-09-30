@@ -1,0 +1,1 @@
+SELECT * FROM customer_replica WHERE crm_customer_id = /* crmCustomerId */'1'

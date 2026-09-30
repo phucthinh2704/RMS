@@ -1,0 +1,1 @@
+SELECT * FROM customer_replica ORDER BY crm_customer_id ASC
